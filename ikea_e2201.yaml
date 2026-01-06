@@ -38,7 +38,7 @@ blueprint:
             # source: https://www.zigbee2mqtt.io/devices/E2201.html#ikea-e2201
             - integration: mqtt
               manufacturer: IKEA of Sweden
-              model: RODRET wireless dimmer/power switch
+              model: RODRET wireless dimmer
             # For backwards compatibility with z2m 1.x. model_id is added to end of model rather than a seperate attribute in z2m 2.x
             - integration: mqtt
               manufacturer: IKEA of Sweden
